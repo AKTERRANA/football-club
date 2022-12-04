@@ -1,0 +1,131 @@
+[{
+  "_id": {
+    "$oid": "638b23011d7c973353a3318c"
+  },
+  "title": "Game CLub",
+  "imgUrl": "Screenshot_20221125-121456.png",
+  "question": "What is your dream job?",
+  "answers": [
+    {
+      "text": "IIT ",
+      "correct": true
+    },
+    {
+      "text": "IIS",
+      "correct": false
+    },
+    {
+      "text": "IIM",
+      "correct": true
+    },
+    {
+      "text": "IPS",
+      "correct": false
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638b24a718c075d092b6007c"
+  },
+  "title": "Aged Club",
+  "imgUrl": "electric-car-2545290_1280.png",
+  "question": "Why are you here?",
+  "answers": [
+    {
+      "text": "Children got settled in foreign",
+      "correct": true
+    },
+    {
+      "text": "Forced me out of my house",
+      "correct": false
+    },
+    {
+      "text": "Family Member lost",
+      "correct": true
+    },
+    {
+      "text": "Neighbour Problem",
+      "correct": false
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638b25b4fae3c8cf3da2d0cf"
+  },
+  "title": "New CLub",
+  "imgUrl": "fi.png",
+  "question": "New CLub is required or not?",
+  "answers": [
+    {
+      "text": "Yes",
+      "correct": false
+    },
+    {
+      "text": "No ",
+      "correct": false
+    },
+    {
+      "text": "Dilemma",
+      "correct": true
+    },
+    {
+      "text": "Need Time",
+      "correct": false
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638b26aea128a031b850842c"
+  },
+  "title": "Very New Club",
+  "imgUrl": "fi.png",
+  "question": "What is your Power?",
+  "answers": [
+    {
+      "text": "Knowledge",
+      "correct": false
+    },
+    {
+      "text": "Physical",
+      "correct": true
+    },
+    {
+      "text": "Reasoning",
+      "correct": false
+    },
+    {
+      "text": "Convincing",
+      "correct": false
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638b324388a73e26065f2f51"
+  },
+  "title": "Football Club",
+  "imgUrl": "charging-station-2276054_1280.png",
+  "question": "Who is your best player?",
+  "answers": [
+    {
+      "text": "A",
+      "correct": true
+    },
+    {
+      "text": "BBB",
+      "correct": false
+    },
+    {
+      "text": "Cddcldk SLD",
+      "correct": false
+    },
+    {
+      "text": "ldskj",
+      "correct": false
+    }
+  ],
+  "__v": 0
+}]
